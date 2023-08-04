@@ -51,6 +51,9 @@ params:
       description: Where all data on servers, users, and levels/leaderboards are held,
         alongside other data.
       category: LxTechnologies Shards
+    - category: LxTechnologies Shards
+      name: Configuration Services
+      description: Commands/dashboard system for setup, and guild settings
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#e74a4c"
   enableLastMod: true
