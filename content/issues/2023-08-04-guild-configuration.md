@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Guild Configuration
-date: 2023-08-04T01:34:58.136Z
+date: 2023-08-07T22:15:56.796Z
 resolved: false
 draft: false
 informational: true
 pin: false
-resolvedWhen: 2023-08-04T01:34:58.159Z
+resolvedWhen: 2023-08-07T22:15:56.823Z
 affected:
   - Configuration Services
   - ""
