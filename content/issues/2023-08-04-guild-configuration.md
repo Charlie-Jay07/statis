@@ -10,6 +10,6 @@ resolvedWhen: 2023-08-04T01:34:58.159Z
 affected:
   - Configuration Services
   - ""
-severity: disrupted
+severity: notice
 ---
 *Guild setup configuration/settings are unavailable. This is due to extensive development on our new guild system.*
