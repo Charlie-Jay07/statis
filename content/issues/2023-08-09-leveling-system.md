@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2023-08-09T14:53:21.033Z
 affected:
-  - database
+  - Database
   - Root Services
 severity: disrupted
 ---
